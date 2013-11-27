@@ -20,7 +20,7 @@ with open('index.html', 'w') as f:
     f.write( templateIndex.render( templateVars ) )
 
 templateNews = templateEnv.get_template( "about.html" )
-with open('about.html', 'w') as f:
+with open('about', 'w') as f:
     f.write( templateNews.render( templateVars ) )
 
 
