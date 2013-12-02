@@ -1,4 +1,4 @@
 xavierraffin.com
 ================
 
-Static version of personal blog
+Static version of personal blog.
